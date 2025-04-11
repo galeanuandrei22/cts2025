@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MobileNotifications/MobileNotifications.iml" filepath="$PROJECT_DIR$/MobileNotifications/MobileNotifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewsNotifications/NewsNotifications.iml" filepath="$PROJECT_DIR$/NewsNotifications/NewsNotifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentSystem/PaymentSystem.iml" filepath="$PROJECT_DIR$/PaymentSystem/PaymentSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cts2025.iml" filepath="$PROJECT_DIR$/.idea/cts2025.iml" />
     </modules>
   </component>
