@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/NewsNotifications/NewsNotifications.iml" filepath="$PROJECT_DIR$/NewsNotifications/NewsNotifications.iml" />
       <module fileurl="file://$PROJECT_DIR$/OferteEcommerce/OferteEcommerce.iml" filepath="$PROJECT_DIR$/OferteEcommerce/OferteEcommerce.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaymentSystem/PaymentSystem.iml" filepath="$PROJECT_DIR$/PaymentSystem/PaymentSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextEditor/TextEditor.iml" filepath="$PROJECT_DIR$/TextEditor/TextEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/TravelBooking/TravelBooking.iml" filepath="$PROJECT_DIR$/TravelBooking/TravelBooking.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cts2025.iml" filepath="$PROJECT_DIR$/.idea/cts2025.iml" />
     </modules>
