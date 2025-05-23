@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" filepath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/AirTrafficControl/AirTrafficControl.iml" filepath="$PROJECT_DIR$/AirTrafficControl/AirTrafficControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/ChainOfResponsability/ChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Company/Company.iml" filepath="$PROJECT_DIR$/Company/Company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadePattern/FacadePattern.iml" filepath="$PROJECT_DIR$/FacadePattern/FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" filepath="$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MobileNotifications/MobileNotifications.iml" filepath="$PROJECT_DIR$/MobileNotifications/MobileNotifications.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewsNotifications/NewsNotifications.iml" filepath="$PROJECT_DIR$/NewsNotifications/NewsNotifications.iml" />
       <module fileurl="file://$PROJECT_DIR$/OferteEcommerce/OferteEcommerce.iml" filepath="$PROJECT_DIR$/OferteEcommerce/OferteEcommerce.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaymentSystem/PaymentSystem.iml" filepath="$PROJECT_DIR$/PaymentSystem/PaymentSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProtocolUrgenta/ProtocolUrgenta.iml" filepath="$PROJECT_DIR$/ProtocolUrgenta/ProtocolUrgenta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextEditor/TextEditor.iml" filepath="$PROJECT_DIR$/TextEditor/TextEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/TravelBooking/TravelBooking.iml" filepath="$PROJECT_DIR$/TravelBooking/TravelBooking.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cts2025.iml" filepath="$PROJECT_DIR$/.idea/cts2025.iml" />
